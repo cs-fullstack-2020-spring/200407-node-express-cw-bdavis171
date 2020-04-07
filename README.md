@@ -1,7 +1,8 @@
 # 20-04-07 Node and Express CW
 
 #### Attempt this assignment without looking back at your notes first
-
+Interesting solution for Ex4! Looks very `React`. Nice work!
+### Score : 5/5
 ### Set Up
 - Create a JS file called `index.js`
 - Generate the `package.json` file by running `npm init` in the terminal (accept all defaults)
