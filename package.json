@@ -1,0 +1,22 @@
+{
+  "name": "200407-node-express-cw-bdavis171",
+  "version": "1.0.0",
+  "description": "node and express cw",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cs-fullstack-2020-spring/200407-node-express-cw-bdavis171.git"
+  },
+  "author": "Brandon Davis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cs-fullstack-2020-spring/200407-node-express-cw-bdavis171/issues"
+  },
+  "homepage": "https://github.com/cs-fullstack-2020-spring/200407-node-express-cw-bdavis171#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
