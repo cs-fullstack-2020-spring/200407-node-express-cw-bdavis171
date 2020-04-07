@@ -48,7 +48,13 @@ app.get('/student/:id', (req,res) => {
 app.get('/allStudents', (req,res) => {
     // display all elements of the previously defined studentArray
     res.send(
-        
+        `<div>
+        ${studentArray.map(
+            (student) => {
+                return (`Name: ${student.name},Confidence: ${student.confidence}\r\n`);
+            }
+        )}
+        </div>`
     )
     
 })
