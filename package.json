@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/cs-fullstack-2020-spring/200407-node-express-cw-bdavis171#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   }
 }
